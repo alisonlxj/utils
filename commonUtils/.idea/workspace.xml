@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8edf25e7-c68f-4506-b0f3-1029b8a63096" name="Default Changelist" comment="" />
+    <list default="true" id="8edf25e7-c68f-4506-b0f3-1029b8a63096" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/dto/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/test/TestMain01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/BigDecimalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/ClassLoaderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/CreateStuffUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/HttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/JacksonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/alison/utils/OsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,6 +43,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1fJpyrVq0gOmj7f4br9pCIeu4pd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -41,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595946306955</updated>
-      <workItem from="1595946313721" duration="1694000" />
+      <workItem from="1595946313721" duration="2398000" />
+      <workItem from="1596073702054" duration="3254000" />
+      <workItem from="1596422884557" duration="456000" />
     </task>
     <servers />
   </component>
@@ -49,21 +77,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1595946346712">
+    <state x="335" y="116" width="954" height="800" key="CommitChangelistDialog2" timestamp="1596526550940">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="335" y="116" width="954" height="800" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1596526550940" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1596032769563">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1595946346712" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1595946346710">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1596032769563" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1596032769562">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1595946346710" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1595946346710">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1596032769562" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1596032769559">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1595946346710" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1595946346711">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1596032769559" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1596032769562">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1595946346711" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1596032769562" />
   </component>
 </project>
